@@ -11,9 +11,7 @@ import time
 
 
 AO_pin = 0
-A1_pin = 1  # flame sensor AO connected to ADC chanannel 0
-# change these as desired - they're the pins connected from the
-# SPI port on the ADC to the Cobbler
+A1_pin = 1
 # SPICLK = 21
 # SPIMISO = 19
 # SPIMOSI = 20
